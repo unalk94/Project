@@ -53,7 +53,7 @@ View the latest information in the live data table.
 
 The application currently supports only the Binance exchange.
 
-Trading signals are for informational purposes only and should not be considered financial advice.
+## Trading signals are for informational purposes only and should not be considered financial advice.
 
 There may be delays in real-time data.
 
