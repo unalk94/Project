@@ -1,4 +1,4 @@
-# Crypto Trading Dashboard
+# Crypto Trading Dashboard With Indicator Signals
 This dashboard is a Dash application designed to visualize real-time cryptocurrency data and generate trading signals based on popular technical indicators.
 
 ## Features
